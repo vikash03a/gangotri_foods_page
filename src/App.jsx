@@ -17,6 +17,7 @@ import Farmers          from "./components/Farmers";
 import Contact          from "./components/Contact";
 import Footer           from "./components/Footer";
 import FloatingWhatsApp from "./components/FloatingWhatsApp";
+import { Analytics } from "@vercel/analytics/next"
 
 export default function App() {
   return (
@@ -34,6 +35,7 @@ export default function App() {
       <Contact />
       <Footer />
       <FloatingWhatsApp />
+      <Analytics />
     </div>
   );
 }
