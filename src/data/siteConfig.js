@@ -12,7 +12,7 @@ const siteConfig = {
   },
 
   contact: {
-    whatsapp:  "91XXXXXXXXXX",   // ← Replace with your real WhatsApp number
+    whatsapp:  "+917322010746",   // update your WhatsApp number here   
     email:     "gangotrifoods.in@gmail.com",
     address:   "Meghua, Muzaffarpur\nBihar – 843153, India",
     website:   "www.gangotrifoods.in",
@@ -20,7 +20,7 @@ const siteConfig = {
 
   social: {
     instagram: "https://instagram.com/gangotri_foods",
-    facebook:  "https://facebook.com/GangotriiFoods",
+    facebook:  "https://www.facebook.com/profile.php?id=61579119865795",
     email:     "mailto:gangotrifoods.in@gmail.com",
   },
 
