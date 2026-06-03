@@ -9,9 +9,11 @@ import Hero             from "./components/Hero";
 import TrustStrip       from "./components/TrustStrip";
 import About            from "./components/About";
 import WhyUs            from "./components/WhyUs";
+import HiddenDanger     from "./components/HiddenDanger";
 import Products         from "./components/Products";
 import Comparison       from "./components/Comparison";
 import Journey          from "./components/Journey";
+import Blogs            from "./components/Blogs";
 import Testimonials     from "./components/Testimonials";
 import Farmers          from "./components/Farmers";
 import Contact          from "./components/Contact";
@@ -26,9 +28,11 @@ export default function App() {
       <TrustStrip />
       <About />
       <WhyUs />
+      <HiddenDanger />
       <Products />
       <Comparison />
       <Journey />
+      <Blogs />
       <Testimonials />
       <Farmers />
       <Contact />
